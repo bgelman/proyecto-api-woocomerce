@@ -1,0 +1,168 @@
+{
+  "id": 19046,
+  "created_at": "2023-06-13T20:19:09",
+  "total": "8929.26",
+  "customer": {
+    "id": 0,
+    "physis_id": " ",
+    "name": "Maria Belen",
+    "document_type": "Maria Belen",
+    "document_number": "mbbarrios97@gmail.com",
+    "email": "mbbarrios97@gmail.com",
+    "phone": "3413643057",
+    "city": "Rosario",
+    "postal_code": "2000",
+    "neighborhood": "Piso 3 Depto 41",
+    "address_street": "General Mosconi 3826",
+    "address_number": "Piso 3 Depto 41",
+    "address_floor": "Piso 3 Depto 41",
+    "address_department": "Piso 3 Depto 41"
+  },
+  "items": [
+    {
+      "id": 861,
+      "name": "NEXGARD P 2A4KG",
+      "product_id": 15433,
+      "variation_id": 0,
+      "quantity": 1,
+      "tax_class": "",
+      "subtotal": "3034.10",
+      "subtotal_tax": "0.00",
+      "total": "3034.10",
+      "total_tax": "0.00",
+      "taxes": [],
+      "meta_data": [
+        {
+          "id": 7361,
+          "key": "_reduced_stock",
+          "value": "1",
+          "display_key": "_reduced_stock",
+          "display_value": "1"
+        }
+      ],
+      "sku": "879",
+      "price": 3034.103,
+      "image": {
+        "id": "15834",
+        "src": "https://mariabenita.com.ar/wp-content/uploads/2020/05/nexgard-2-4.jpg"
+      },
+      "parent_name": null
+    },
+    {
+      "id": 862,
+      "name": "EXCELLENT DOG AD SB FRACCIONADO",
+      "product_id": 16261,
+      "variation_id": 0,
+      "quantity": 2,
+      "tax_class": "",
+      "subtotal": "1953.55",
+      "subtotal_tax": "0.00",
+      "total": "1953.55",
+      "total_tax": "0.00",
+      "taxes": [],
+      "meta_data": [
+        {
+          "id": 7362,
+          "key": "_reduced_stock",
+          "value": "2",
+          "display_key": "_reduced_stock",
+          "display_value": "2"
+        }
+      ],
+      "sku": "64780",
+      "price": 976.777,
+      "image": {
+        "id": "15775",
+        "src": "https://mariabenita.com.ar/wp-content/uploads/2020/05/excellent-adult-dog-small-chick-rice-x-15-kg-mascota-food-D_NQ_NP_650007-MLA40493678877_012020-F.jpg"
+      },
+      "parent_name": null
+    },
+    {
+      "id": 863,
+      "name": "PROTECH GATO 5 KG",
+      "product_id": 15506,
+      "variation_id": 0,
+      "quantity": 1,
+      "tax_class": "",
+      "subtotal": "1706.25",
+      "subtotal_tax": "0.00",
+      "total": "1706.25",
+      "total_tax": "0.00",
+      "taxes": [],
+      "meta_data": [
+        {
+          "id": 7363,
+          "key": "_reduced_stock",
+          "value": "1",
+          "display_key": "_reduced_stock",
+          "display_value": "1"
+        }
+      ],
+      "sku": "5534",
+      "price": 1706.245,
+      "image": {
+        "id": "15978",
+        "src": "https://mariabenita.com.ar/wp-content/uploads/2020/05/protech-gato.jpg"
+      },
+      "parent_name": null
+    },
+    {
+      "id": 864,
+      "name": "PIEDRA SANITARIA NICK X 2 KGS",
+      "product_id": 16089,
+      "variation_id": 0,
+      "quantity": 6,
+      "tax_class": "",
+      "subtotal": "2235.36",
+      "subtotal_tax": "0.00",
+      "total": "2235.36",
+      "total_tax": "0.00",
+      "taxes": [],
+      "meta_data": [
+        {
+          "id": 7364,
+          "key": "_reduced_stock",
+          "value": "6",
+          "display_key": "_reduced_stock",
+          "display_value": "6"
+        }
+      ],
+      "sku": "300000",
+      "price": 372.56,
+      "image": {
+        "id": "17292",
+        "src": "https://mariabenita.com.ar/wp-content/uploads/2020/06/WhatsApp-Image-2021-05-26-at-16.50.561.jpeg"
+      },
+      "parent_name": null
+    }
+  ],
+  "shipping": [
+    {
+      "id": 865,
+      "method_title": "Envío gratuito compras mayor a $ 5.000 (SOLO ZONA CENTRO ROSARIO)",
+      "method_id": "free_shipping",
+      "instance_id": "4",
+      "total": "0.00",
+      "total_tax": "0.00",
+      "taxes": [],
+      "meta_data": [
+        {
+          "id": 7360,
+          "key": "Artículos",
+          "value": "NEXGARD P 2A4KG × 1, EXCELLENT DOG AD SB FRACCIONADO × 2, PROTECH GATO 5 KG × 1, PIEDRA SANITARIA NICK X 2 KGS × 6",
+          "display_key": "Artículos",
+          "display_value": "NEXGARD P 2A4KG × 1, EXCELLENT DOG AD SB FRACCIONADO × 2, PROTECH GATO 5 KG × 1, PIEDRA SANITARIA NICK X 2 KGS × 6"
+        }
+      ]
+    }
+  ],
+  "payment": {
+    "payment_at": null,
+    "payment_method": "woo-mercado-pago-basic",
+    "method_physis_id": " ",
+    "total": "8929.26",
+    "cart_hash": "a3893249a8cb28a5c368fc312a8b5b0b",
+    "total_tax": "0.00",
+    "discount_total": "0.00"
+  }
+}
